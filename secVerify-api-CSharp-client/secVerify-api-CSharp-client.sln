@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "secVerify-api-CSharp-client", "secVerify-api-CSharp-client\secVerify-api-CSharp-client.csproj", "{E401869B-D109-45BF-AF45-59C5CD3836B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{70F020AF-E772-4375-8E97-FF36C0DD1B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E401869B-D109-45BF-AF45-59C5CD3836B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E401869B-D109-45BF-AF45-59C5CD3836B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E401869B-D109-45BF-AF45-59C5CD3836B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E401869B-D109-45BF-AF45-59C5CD3836B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F020AF-E772-4375-8E97-FF36C0DD1B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F020AF-E772-4375-8E97-FF36C0DD1B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F020AF-E772-4375-8E97-FF36C0DD1B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F020AF-E772-4375-8E97-FF36C0DD1B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2075874D-78D2-4162-ACEB-4D0F925BE457}
+	EndGlobalSection
+EndGlobal
